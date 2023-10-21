@@ -1,0 +1,102 @@
+===== FIRST CALL FOR PAPERS =======
+
+ASAI 2011 - XII ARGENTINE SYMPOSIUM ON ARTIFICIAL INTELLIGENCE
+===========================================================
+
+
+August 29th to September 30th, 2011 
+Córdoba Capital (UTN - Facultad Regional Córdoba)
+
+part of
+40 JAIIO - 40 Argentine Conference of Informatics - http://www.40jaiio.org.ar/
+August 29th to September 2nd, 2011
+
+
+ASAI, the Argentine Symposium on Artificial Intelligence, is an annual event intended to be the main forum of the Artificial Intelligence (AI) community in Argentina. The symposium aims at providing a forum for researchers and AI community members to discuss and exchange ideas and experiences on diverse topics of AI. Previous ASAI editions stimulated presentations on both applications of AI and new tools and foundations currently under development. 
+
+The XII Argentine Symposium on Artificial Intelligence (ASAI 2011) will be held during  29th – 30th August 2011, in Córdoba, Argentina, at the Universidad Tecnológica Nacional - Facultad Regional Córdoba.
+
+ASAI 2011 will be part of the 40th JAIIO, the 40th Argentine Conference on Informatics, organized by SADIO. JAIIO is organized as a series of thematic symposia including topics such as software engineering, artificial intelligence, technology, agroinformatics, high performance computing, industrial informatics, free software, law, health, information society, and a students contest. For more information, 
+
+
+TOPICS OF INTEREST
+==================
+- AI Development, Tools and Methodologies
+- AI Foundations (philosophy, epistemology, economics, etc.)
+- Machine Learning
+- Intelligent Agents and Multi-Agent Systems
+- Knowledge Discovery and Data Mining
+- Human-Computer Interaction
+- Virtual Reality
+- Computer Vision and Pattern Recognition
+- Evolutionary Computation
+- Innovative applications of Artificial Intelligence (Bioinformatics, Computational - Biology, Education, Internet, Law, Music, etc.)
+- Knowledge Acquisition
+- Knowledge Representation and Reasoning
+- Knowledge Engineering
+- Natural Language Processing
+- Speech Processing
+- Image Processing
+- Planning and Scheduling
+- Robotics
+
+PROGARM CO-CHAIRS
+====================
+Dr. Guillermo Simari,  Dept. of Computer Science & Engineering, Universidad Nacional del Sur, Argentina
+Dr. Laura Alonso i Alemany, FaMAF, Universidad Nacional de Córdoba, Argentina
+
+PROGRAM COMMITTEE
+====================
+
+- Carlos Areces (Universidad Nacional de Córdoba, Argentina)
+- Marcelo G. Armentano (ISISTAN, Universidad Nacional del Centro de la Pcia. de Bs. As., Argentina)
+- Luciana Benotti (Universidad Nacional de Córdoba, Argentina)
+- Luis S. Berdún (ISISTAN, Universidad Nacional del Centro de la Pcia. de Bs. As., Argentina)
+- Olivier Boissier (ENS Mines Saint-Etienne, France)
+- Facundo Bromberg (Universidad Tecnológica Nacional, Facultad Regional Mendoza, Argentina)
+- José Castaño (Universidad de Buenos Aires, Argentina)
+- Carlos Iván Chesñevar (Universidad Nacional del Sur, Argentina)
+- Juan Manuel Corchado (GSII, Universidad de Salamanca, Spain)
+- Rosanna Costaguta (Universidad Nacional de Santiago del Estero, Argentina)
+- Elena Duran (Universidad Nacional de Santiago del Estero, Argentina)
+- Paula Estrella (Universidad Nacional de Córdoba, Argentina)
+- Marcelo Falappa (Universidad Nacional del Sur, Argentina)
+- Alejandro Garcia (Universidad Nacional del Sur, Argentina)
+- Hector Geffner (Universitat Pompeu Fabra, Spain)
+- Daniela Godoy (ISISTAN, Universidad Nacional del Centro de la Pcia. de Buenos Aires, Argentina)
+- Juan Carlos Gómez (Universidad Nacional de Rosario, Argentina)
+- Pablo M. Granitto (Universidad Nacional de Rosario, Argentina)
+- Gabriel Infante-Lopez (FaMAF, Universidad Nacional de Córdoba, Argentina)
+- Huei Diana Lee (Laboratório de Bioinformática, Universidade Estadual do Oeste do Paraná, Brazil)
+- Ana Gabriela Maguitman (Dpto. de Ciencias e Ingeniería de la Computación Universidad Nacional del Sur, UNS)
+- Diego Milone (Laboratory for signals and computational intelligence, Universidad Nacional del Litoral, Santa Fe, 
+- Ronaldo Prati (Universidade Federal do ABC, Brazil)
+- Horacio Saggion (Universitat Pompeu Fabra, Spain)
+- Silvia Schiaffino (ISISTAN, Universidad Nacional del Centro de la Pcia. de Bs. As., Argentina)
+- Georgina Stegmayer (UTN-Santa Fe, Argentina)
+- Pablo F. Verdes (Man Research Lab, Oxford, United Kingdom)
+
+
+PAPER SUBMISSION
+==================
+ASAI 2011 seeks original contributions in a wide spectrum of Artificial Intelligence, ranging from state-of-the-art academic research to industrial and business applications having a significant impact. The symposium will consist of invited talks and regular paper sessions presenting mature work (full papers) in theoretical research and applications. A poster session will be devoted to the presentation of new ideas and less mature work in general (extended abstracts).
+
+Submissions are due before May 2nd. Submissions can be made through the EasyChair system, the submission site will be made available soon. Delayed submissions will most likely be rejected. All papers received before the deadline will be peer-reviewed by referees of the area.
+
+The submission of manuscripts must follow the format available at http://www.springer.de/comp/lncs/authors.html. The page limit for a full paper is 12 pages. Extended abstracts describing novel research visions, work-in-progress or less mature results are also welcome, with a limit of 4 pages. All contributions should be submitted in Ghostview-readable Postscript or PDF formats. For diffusion reasons, papers in English are strongly recommended (Spanish is also acceptable). 
+
+Information on the format of the camera-ready copy will be forwarded with the acceptance letter.  Each accepted paper must be presented in the symposium, and the presenter must be registered in the conference.
+
+
+IMPORTANT DATES
+===============
+- May 2nd, 2011 : Deadline for submissions of papers
+- June 13th, 2011 : Notification of Acceptance/Rejection
+- June 27th, 2011 : Deadline for camera ready submissions
+
+CONTACT
+=======
+For further information, visit ASAI 2011 webpage: 
+http://www.40jaiio.org.ar/
+or send an e-mail to: 
+XII.asai@40jaiio.org.ar
